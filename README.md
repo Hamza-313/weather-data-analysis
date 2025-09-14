@@ -8,20 +8,6 @@
 
 ---
 
-## 📑 Table of Contents
-- [About the Project](#-about-the-project)  
-- [Dataset](#-dataset)  
-- [Features Analyzed](#-features-analyzed)  
-- [Technologies Used](#-technologies-used)  
-- [Installation](#-installation)  
-- [Usage](#-usage)  
-- [Results & Visualizations](#-results--visualizations)  
-- [Future Improvements](#-future-improvements)  
-- [Contributing](#-contributing)  
-- [License](#-license)  
-
----
-
 ## 📖 About the Project
 This repository contains a **real-world weather dataset analysis** using **Python**.  
 The dataset records **per-hour weather conditions** at a location.  
@@ -30,9 +16,11 @@ The notebook demonstrates **data cleaning, exploration, and visualization techni
 ---
 
 ## 📂 Dataset
-- File: `Weather Data.csv`  
-- Type: Time-series data  
-- Records: Hourly measurements  
+The dataset used in this project was downloaded from Kaggle:  
+👉 [Weather Dataset on Kaggle](https://www.kaggle.com/datasets/vikramkathare/weather-dataset)  
+
+➡️ Please download the dataset manually and place the file (`Weather Data.csv`) in the project root folder before running the notebook.  
+
 
 ---
 
@@ -57,9 +45,8 @@ The notebook demonstrates **data cleaning, exploration, and visualization techni
 
 ---
 
-## ⚙️ Installation
-Clone the repository and install dependencies:  
+## 🚀 Usage
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+jupyter notebook "PYTHON DATA ANALYSIS PROJECT.ipynb"
+
 pip install -r requirements.txt
