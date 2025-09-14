@@ -1,5 +1,5 @@
 # weather-data-analysis
-# 🌦️ Python Data Analysis Project - Weather Dataset  
+# 🌦️ Python Data Analysis Project - Weather Dataset 
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)  
 [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)](https://jupyter.org/)  
