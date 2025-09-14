@@ -1,5 +1,6 @@
-# weather-data-analysis
 # 🌦️ Python Data Analysis Project - Weather Dataset 
+[![GitHub stars](https://img.shields.io/github/stars/hamzanaeem/weather-data-analysis?style=social)](https://github.com/hamzanaeem/weather-data-analysis/stargazers)
+
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)  
 [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)](https://jupyter.org/)  
